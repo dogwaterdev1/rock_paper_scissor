@@ -1,0 +1,13 @@
+name: rock-paper-scissors
+version: 0.1.0
+
+authors:
+  - BC <blakecosta117@gmail.com>
+
+targets:
+  rock-paper-scissors:
+    main: src/rock-paper-scissors.cr
+
+crystal: '>= 1.13.3'
+
+license: MIT
