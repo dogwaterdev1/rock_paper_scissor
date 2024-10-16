@@ -2,7 +2,7 @@
 a simple rock paper scissors utility that you can use. Built for windows. Will have to run from source and create own binaries if want on mac/linux
 
 ## Installation
-take .exe binary and add it to path, just call rps (short for rock paper scissors) to run the utility. Detailed steps:
+take .exe binary and add it to path, just call `rps` (short for rock paper scissors) to run the utility. Or rename to whatever you want. Detailed steps:
 1. Download package and unzip, rename to `rps`.
 2. Put the binary (the `.exe`) someplace it can live permanently.
 3. Open System Properties > Advanced > Environment Variables
