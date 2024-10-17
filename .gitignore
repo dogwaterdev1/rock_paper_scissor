@@ -3,3 +3,6 @@
 /bin/
 /.shards/
 *.dwarf
+*.dll
+*.exe
+*.pdb
