@@ -2,13 +2,14 @@
 a simple rock paper scissors utility that you can use. Built for windows. Will have to run from source and create own binaries if want on mac/linux
 
 ## Installation
-take .exe binary and add it to path, just call `rps` (short for rock paper scissors) to run the utility. Or rename to whatever you want. Detailed steps:
-1. Download package and unzip, rename to `rps`.
-2. Put the binary (the `.exe`) someplace it can live permanently.
+take `.exe` binary and add it to your path, call `rps` (short for rock paper scissors) to run the utility. Or rename to whatever you want. Detailed steps:
+1. Download package and unzip, rename `.exe` to `rps`.
+2. Put the binary (the `.exe`) in a folder it can live permanently.
 3. Open System Properties > Advanced > Environment Variables
 4. Edit the PATH variable
-5. Add the directory containing the executable, separating it with semicolons if needed.
-6. Restart PC if needed, or refresh terminal. Run `rps`
+5. Add the **directory** containing the executable, separating it with semicolons if needed.
+6. Restart PC if needed, or refresh terminal. 
+7. Type `rps` in terminal. It should run
 
 ## Usage
 enter 'rock', 'paper', or 'scissors'. And battle the "Super Intelligent", massively powerful LLM learning agent (I'm being facetious)
