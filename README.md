@@ -28,4 +28,4 @@ it's basically done. May add a couple small things in the future.
 5. Create a new Pull Request
 
 ## Contributors
-- [BC](https://github.com/your-github-user) - creator and maintainer
+- [dogwaterdev1](https://github.com/dogwaterdev1) - creator and maintainer
